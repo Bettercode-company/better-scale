@@ -5,7 +5,7 @@ This service is an automatic scaler for Liara's cloud infrastructure and does no
 
 
 
-![Logo](https://middleware.io/static/79f5bb408800e7b54c2269add486c153/12bf8/auto-scale-2.jpg)
+![Logo](https://www.docker.com/wp-content/uploads/2022/12/Docker_Dive_Extension_inline_v1-1110x609.png)
 
 
 ## Documentation
